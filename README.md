@@ -1,2 +1,2 @@
 # workout-app
- This app will help you in managing your workout
+ This app provides daily workout routines for all your main muscle groups.
